@@ -1,0 +1,3 @@
+numpy
+matplotlib
+# casperfpga: install from https://github.com/casper-astro/casperfpga (Python 3.8)

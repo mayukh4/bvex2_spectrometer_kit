@@ -1,0 +1,8 @@
+# Saved runs stay local
+bvex2_test_data/*
+!bvex2_test_data/check_data.py
+
+__pycache__/
+*.pyc
+.DS_Store
+*.png
